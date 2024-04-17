@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Philip Nora! I am a computer science major at Quinnipiac University. 
 
 <!--
 **PhilipN27/PhilipN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
